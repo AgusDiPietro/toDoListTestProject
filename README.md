@@ -1,3 +1,3 @@
-# Projecto prueba
+# testProject
 
-Este es mi primer proyecto
+This is my first project
